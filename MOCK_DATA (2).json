@@ -1,0 +1,302 @@
+[
+    {
+        "name": "August",
+        "class": 12,
+        "address": "840 Porter Center",
+        "rollno": 1
+    },
+    {
+        "name": "Maddie",
+        "class": 12,
+        "address": "0 International Way",
+        "rollno": 2
+    },
+    {
+        "name": "Virgina",
+        "class": 12,
+        "address": "1 Crescent Oaks Lane",
+        "rollno": 3
+    },
+    {
+        "name": "Christal",
+        "class": 12,
+        "address": "919 Dwight Crossing",
+        "rollno": 4
+    },
+    {
+        "name": "Nedda",
+        "class": 12,
+        "address": "98 Sage Place",
+        "rollno": 5
+    },
+    {
+        "name": "Stanislas",
+        "class": 12,
+        "address": "8 Sage Avenue",
+        "rollno": 6
+    },
+    {
+        "name": "Betsy",
+        "class": 12,
+        "address": "5987 Southridge Park",
+        "rollno": 7
+    },
+    {
+        "name": "Gamaliel",
+        "class": 12,
+        "address": "28944 Monica Circle",
+        "rollno": 8
+    },
+    {
+        "name": "Stace",
+        "class": 12,
+        "address": "2 Maple Wood Drive",
+        "rollno": 9
+    },
+    {
+        "name": "Arther",
+        "class": 12,
+        "address": "38 Hanover Way",
+        "rollno": 10
+    },
+    {
+        "name": "Vicky",
+        "class": 12,
+        "address": "56 Logan Way",
+        "rollno": 11
+    },
+    {
+        "name": "Bondy",
+        "class": 12,
+        "address": "4 Dorton Plaza",
+        "rollno": 12
+    },
+    {
+        "name": "Lothario",
+        "class": 12,
+        "address": "6810 Forest Court",
+        "rollno": 13
+    },
+    {
+        "name": "Chicky",
+        "class": 12,
+        "address": "84 Almo Plaza",
+        "rollno": 14
+    },
+    {
+        "name": "Seline",
+        "class": 12,
+        "address": "82127 Shoshone Way",
+        "rollno": 15
+    },
+    {
+        "name": "Tessa",
+        "class": 12,
+        "address": "66 Tennessee Lane",
+        "rollno": 16
+    },
+    {
+        "name": "Luise",
+        "class": 12,
+        "address": "0 Cottonwood Lane",
+        "rollno": 17
+    },
+    {
+        "name": "Sibyl",
+        "class": 12,
+        "address": "02820 Summer Ridge Street",
+        "rollno": 18
+    },
+    {
+        "name": "Floria",
+        "class": 12,
+        "address": "532 Dwight Court",
+        "rollno": 19
+    },
+    {
+        "name": "Emyle",
+        "class": 12,
+        "address": "116 Weeping Birch Street",
+        "rollno": 20
+    },
+    {
+        "name": "Vita",
+        "class": 12,
+        "address": "78378 Eliot Alley",
+        "rollno": 21
+    },
+    {
+        "name": "Woodrow",
+        "class": 12,
+        "address": "1330 Shoshone Circle",
+        "rollno": 22
+    },
+    {
+        "name": "Mamie",
+        "class": 12,
+        "address": "9543 Vera Road",
+        "rollno": 23
+    },
+    {
+        "name": "Aldwin",
+        "class": 12,
+        "address": "58075 Longview Terrace",
+        "rollno": 24
+    },
+    {
+        "name": "Marten",
+        "class": 12,
+        "address": "62 Carpenter Plaza",
+        "rollno": 25
+    },
+    {
+        "name": "Georgette",
+        "class": 12,
+        "address": "601 Eastwood Avenue",
+        "rollno": 26
+    },
+    {
+        "name": "Valencia",
+        "class": 12,
+        "address": "191 Pine View Hill",
+        "rollno": 27
+    },
+    {
+        "name": "Berkly",
+        "class": 12,
+        "address": "762 Oak Circle",
+        "rollno": 28
+    },
+    {
+        "name": "Marwin",
+        "class": 12,
+        "address": "42123 Columbus Plaza",
+        "rollno": 29
+    },
+    {
+        "name": "Jeramie",
+        "class": 12,
+        "address": "7 Warrior Terrace",
+        "rollno": 30
+    },
+    {
+        "name": "Sela",
+        "class": 12,
+        "address": "1211 Scofield Center",
+        "rollno": 31
+    },
+    {
+        "name": "Lucy",
+        "class": 12,
+        "address": "910 Tennyson Court",
+        "rollno": 32
+    },
+    {
+        "name": "Randal",
+        "class": 12,
+        "address": "9 Novick Point",
+        "rollno": 33
+    },
+    {
+        "name": "Otis",
+        "class": 12,
+        "address": "00 Eastwood Lane",
+        "rollno": 34
+    },
+    {
+        "name": "Andromache",
+        "class": 12,
+        "address": "5 Kropf Hill",
+        "rollno": 35
+    },
+    {
+        "name": "Torey",
+        "class": 12,
+        "address": "68693 Anniversary Circle",
+        "rollno": 36
+    },
+    {
+        "name": "Fayina",
+        "class": 12,
+        "address": "18081 Maple Wood Alley",
+        "rollno": 37
+    },
+    {
+        "name": "Hally",
+        "class": 12,
+        "address": "6796 Merchant Hill",
+        "rollno": 38
+    },
+    {
+        "name": "Reine",
+        "class": 12,
+        "address": "16 Artisan Trail",
+        "rollno": 39
+    },
+    {
+        "name": "Sean",
+        "class": 12,
+        "address": "91866 Glacier Hill Crossing",
+        "rollno": 40
+    },
+    {
+        "name": "Valera",
+        "class": 12,
+        "address": "4625 Forest Plaza",
+        "rollno": 41
+    },
+    {
+        "name": "Parnell",
+        "class": 12,
+        "address": "86 La Follette Alley",
+        "rollno": 42
+    },
+    {
+        "name": "Roshelle",
+        "class": 12,
+        "address": "18 Oakridge Hill",
+        "rollno": 43
+    },
+    {
+        "name": "Batsheva",
+        "class": 12,
+        "address": "612 Annamark Hill",
+        "rollno": 44
+    },
+    {
+        "name": "Brok",
+        "class": 12,
+        "address": "89 Chive Trail",
+        "rollno": 45
+    },
+    {
+        "name": "Euphemia",
+        "class": 12,
+        "address": "25 Katie Plaza",
+        "rollno": 46
+    },
+    {
+        "name": "Bellanca",
+        "class": 12,
+        "address": "123 Dottie Way",
+        "rollno": 47
+    },
+    {
+        "name": "Federico",
+        "class": 12,
+        "address": "6 Mccormick Road",
+        "rollno": 48
+    },
+    {
+        "name": "Gunar",
+        "class": 12,
+        "address": "0 Sunfield Avenue",
+        "rollno": 49
+    },
+    {
+        "name": "Rhys",
+        "class": 12,
+        "address": "136 Bluestem Junction",
+        "rollno": 50
+    }
+]
